@@ -1,1 +1,3 @@
-# Visual_studio_2008_for_C_plus
+#Ivor Horton's Beginning Visual C++ 2008 1st Edition
+
+Proudly presenting the latest edition of one of the all-time bestselling books on the C++ language, successful author Ivor Horton repeats the formula that has made each previous edition so popular by teaching you both the standard C++ language and C++/CLI as well as Visual C++ 2008. Thoroughly updated for the 2008 release, this book shows you how to build real-world applications using Visual C++ and guides you through the ins and outs of C++ development. With this book by your side, you are well on your way to becoming a successful C++ programmer.
